@@ -43,3 +43,7 @@ Dan saya memberikan link navigasi di atas header 1 dengan tag nav yang berisi li
 ![9](https://user-images.githubusercontent.com/81550517/112819734-1622fb80-90af-11eb-8e89-fa07aa8030cf.png)<br>
 (di sebelah kiri gambar adalah coding nya sedangkan sebelah kanan adalah hasil nya)<br>
 
+Ketika link nya di klik akan membuka halaman kedua dan juga www.google.com seperti di bawah ini: <br>
+![11](https://user-images.githubusercontent.com/81550517/112821104-7c5c4e00-90b0-11eb-8e81-69cccbb2af7a.png)<br>
+![12 1](https://user-images.githubusercontent.com/81550517/112821317-b9c0db80-90b0-11eb-9fae-53bdfce76e67.png)<br>
+
