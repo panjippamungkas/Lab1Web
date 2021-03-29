@@ -19,3 +19,11 @@ Untuk mengatur paragraf yang sudah saya buat, saya menggunakan atribut align jus
 ![3](https://user-images.githubusercontent.com/81550517/112818111-61d4a580-90ad-11eb-8f6e-0752cfb663a5.png)<br>
 (di sebelah kiri gambar adalah coding nya sedangkan sebelah kanan adalah hasil nya)<br>
 
+Kemudian untuk membuat judul saya memasukan tag h1 dan h2 seperti gambar di bawah ini:<br>
+![4](https://user-images.githubusercontent.com/81550517/112818411-b24c0300-90ad-11eb-9bc8-df97cd0356b3.png)<br>
+(di sebelah kiri gambar adalah coding nya sedangkan sebelah kanan adalah hasil nya)<br>
+
+Untuk sedikit membuat tampilan html berwarna saya menggunakan atribut bgcolor pada tag html seperti dibawah ini:<br>
+![5](https://user-images.githubusercontent.com/81550517/112818511-d3145880-90ad-11eb-8c3f-8c9e2cfba7c9.png)<br>
+(di sebelah kiri gambar adalah coding nya sedangkan sebelah kanan adalah hasil nya)<br>
+
